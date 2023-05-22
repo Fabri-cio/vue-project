@@ -1,0 +1,4 @@
+1 npm install -g @vue/cli
+2 vue create mi-primer-proyecto
+3 cd mi-primer-proyecto
+4 npm run serve
